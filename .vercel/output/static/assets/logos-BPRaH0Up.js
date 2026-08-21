@@ -1,0 +1,1 @@
+import{a as e,n as t}from"./index-Db4ep71Y.js";var n=t(),r=`/app/applet/src/routes/logos.tsx?tsr-split=component`,i=()=>(0,n.jsxDEV)(e,{},void 0,!1,{fileName:r,lineNumber:2,columnNumber:30},void 0);export{i as component};
